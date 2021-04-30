@@ -2,5 +2,8 @@
     "python.pythonPath": "/Users/jjmstars/.local/share/virtualenvs/django_airbnb-76MysoSN/bin/python",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.formatting.provider": "autopep8",
+    "python.linting.flake8Args": ["--max-line-length=92"]
+
 }

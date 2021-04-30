@@ -8,6 +8,8 @@ django = "==2.2.5"
 flake8 = "*"
 
 [dev-packages]
+flake8 = "*"
+autopep8 = "*"
 
 [requires]
 python_version = "3.8"
